@@ -32,7 +32,6 @@ This tool uses `secrets.choice()` which is much more secure than the standard `r
 This project is under MIT LICENSE. SEE [LICENSE](LICENSE) file for details.
 
 ## Author
-Vision KC
-
+Vision KC<br>
 [Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
