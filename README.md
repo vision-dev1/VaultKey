@@ -27,3 +27,6 @@ python3 generator.py
 
 ## Security Note
 This tool uses `secrets.choice()` which is much more secure than the standard `random.choice()` as it is designed for cryptographic purposes, making it ideal for generating passwords.
+
+## License
+This project is under MIT LICENSE. SEE [LICENSE](LICENSE) file for details.
