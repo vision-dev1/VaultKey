@@ -34,5 +34,5 @@ This project is under MIT LICENSE. SEE [LICENSE](LICENSE) file for details.
 ## Author
 Vision KC
 
-[Github](https://github.com/vision-dev1)
+[Github](https://github.com/vision-dev1)<br>
 [Portfolio](https://visionkc.com.np)
